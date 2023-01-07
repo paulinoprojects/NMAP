@@ -1,6 +1,6 @@
 # NMAP
 Known as "Network Mapper" and a free, open-source tool for network security.
-<br> NMAP is a tool to identiy: 
+<br> NMAP identifies: 
 <br>  - Which systems are up? <br>  - What services are running on these systems? <br/>
 
 ## Fundamental Use Cases
